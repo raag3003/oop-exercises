@@ -1,11 +1,12 @@
-class htg{
-	int number = 0;
-	int numberTwo = 0;
-
-	number = 5;
-	numberTwo = 8;
-
-	if (number < numberTwo){
-		System.out.println("number");
+class htg
+{
+	public static void main(String[] args)
+	{
+		int number = 5;
+		int value = 8;
+		if (number < value)
+		{
+			System.out.println("true");
+		}
 	}
 }
