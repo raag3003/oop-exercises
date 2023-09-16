@@ -1,4 +1,4 @@
-class htg{
+public class htg{
 	int number = 0
 	int numberTwo = 0
 
